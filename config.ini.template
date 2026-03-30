@@ -1,0 +1,7 @@
+[CREDENTIALS]
+login_url = https://<moodle_host>/login/index.php
+username = <username>
+password = <pass>
+
+[FOLDERS]
+destination_folder = ./output
